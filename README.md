@@ -12,7 +12,7 @@ Pour la vitesse, j'utilise PageSpeed Insights</p>
   | Sujet | Score | Description |
 | --- | --- | --- |
 | Accessibilité | 80 / 100  | problèmes de contrastes, langue de la page non définie, des liens non définis |
-|Vitesse  | 66 mobile et 79 sur PC / 100  | attention, ma connexion internet est lente donc peut interférer sur le score  |
+|Vitesse  | 66 mobile et 79 sur PC / 100  | tailles des photos |
 | SEO           | 89 / 100  | Balises meta description vides et incomplètes                                 |
 | Meilleures pratiques | 86 / 100 | Fichiers JQuery et Bootstrap trop vulnérables, problèmes de flux de données avec HTTP |
 | Validateur HTML | 2 erreurs | Langue non définie                                                          |
@@ -23,7 +23,7 @@ Pour la vitesse, j'utilise PageSpeed Insights</p>
    | Sujet | Score | Description |
 | --- | --- | --- |
 | Accessibilité | 71 / 100  | problèmes de contrastes, langue de la page non définie, des liens non définis |
-| Vitesse   | 93 sur mobile et 98 sur PC/ 100  | attention, ma connexion internet est lente donc peut interférer sur le score  |
+| Vitesse   | 93 sur mobile et 98 sur PC/ 100  | ok  |
 | SEO           | 89 / 100  | Balises meta description vides et incomplètes                                 |
 | Meilleures pratiques | 86 / 100 | Fichiers JQuery et Bootstrap trop vulnérables, problèmes de flux de données avec HTTP |
 | Validateur HTML | 3 erreurs | Langue non définie, formulaire à revoir                                     |
