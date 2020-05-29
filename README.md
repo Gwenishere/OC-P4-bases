@@ -16,5 +16,14 @@ Pour vérifier fichiers, j'utilise les validateurs CSS et HTML (W3).</p>
 | Validateur HTML | 2 erreurs | Langue non définie                                                          |
 | Validateur CSS | 11 erreurs | Propriétés Media déconseillées                                              |
 
-  
+<h3>Page 2 (page contact)</h3>
+
+   | Sujet | Score | Description |
+| --- | --- | --- |
+| Accessibilité | 71 / 100  | problèmes de contrastes, langue de la page non définie, des liens non définis |
+| Performance   | 43 / 100  | attention, ma connexion internet est lente donc peut interférer sur le score  |
+| SEO           | 89 / 100  | Balises meta description vides et incomplètes                                 |
+| Meilleures pratiques | 86 / 100 | Fichiers JQuery et Bootstrap trop vulnérables, problèmes de flux de données avec HTTP |
+| Validateur HTML | 3 erreurs | Langue non définie, formulaire à revoir                                     |
+| Validateur CSS | 11 erreurs | Propriétés Media déconseillées, bibliothèque Bootstrap introuvable          |
   
